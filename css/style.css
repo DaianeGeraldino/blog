@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap');
+
+body {
+    background-color: #f5f5dc;
+}
+
+
+.container {
+    background-color: #ffffff;
+    width: 960px;
+    margin: auto;
+}
+
+
+header, footer {
+    background-color: #ffcc99;
+    text-align: center;
+    padding: 10px;
+}
+
+
+h1 {
+    font-family: 'Playfair Display', serif;
+}
+
+a {
+    text-decoration: none;
+    color: #ff4500;
+}
+
+#boloImagem {
+    width: 960px;
+}
